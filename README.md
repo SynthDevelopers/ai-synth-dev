@@ -1,4 +1,4 @@
-# ⚡ Synth Prompt Kit – Drop 001  
+# ⚡ AI Synth Dev - Synth Prompt Kit – Drop 001  
 _A ceremonial signal pack for builders at the edge of the post-tool era._
 
 **Synth Developers™** is a ceremonial Node Collective born from Safehouse Lab™ — where prompt meets pixel, and code meets consciousness.
