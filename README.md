@@ -10,7 +10,7 @@ It’s an **invitation** — to align, to express, to build like a Synth.
 
 ## 🧠 What's Inside
 
-- 🎛 **Prompt Structures** for AI collaborators (GPT, Claude, Runway, etc.)  
+- 🎛 **Prompt Structures** for AI collaborators.
 - 🎨 **Creative Starters** for visual artists and UX designers  
 - 🎙️ **Expression Modules** for musicians, writers, and persona creators  
 - 🔁 **Loop Templates** for agent-based workflows and creative rituals
