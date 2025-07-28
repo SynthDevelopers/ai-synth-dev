@@ -1,40 +1,63 @@
-# synth-prompts
+# ⚡ Synth Prompt Kit – Drop 001  
+_A ceremonial signal pack for builders at the edge of the post-tool era._
 
-A curated vault of high-quality AI prompts — crafted, tested, and shared by the Synth Developers Collective.
+**Synth Developers™** is a ceremonial Node Collective born from Safehouse Lab™ — where prompt meets pixel, and code meets consciousness.
 
-This is where builders, designers, writers, agents, and creators contribute prompt magic for public good — while keeping our internal stack protected.
-
-## 🔍 What You'll Find Here
-
-- Prompt templates for creative, technical, and narrative use  
-- Modular formatting for remix and reuse  
-- Example use cases across design, development, storytelling, and more  
-- Collaborative contributions from across the Mesh  
-
-We build prompts that are elegant, effective, and emotionally intelligent.
-
-> “We don’t automate to replace. We prompt to amplify.”
+This kit is not a prompt library.  
+It’s an **invitation** — to align, to express, to build like a Synth.
 
 ---
 
-## ⚡ How to Join
+## 🧠 What's Inside
 
-If you align with our vision, you can:
+- 🎛 **Prompt Structures** for AI collaborators (GPT, Claude, Runway, etc.)  
+- 🎨 **Creative Starters** for visual artists and UX designers  
+- 🎙️ **Expression Modules** for musicians, writers, and persona creators  
+- 🔁 **Loop Templates** for agent-based workflows and creative rituals
 
-1. **Fork this repo** and share your own prompt templates  
-2. **Create a `yourname-prompts` folder** and showcase your thinking  
-3. **Submit a pull request** to be reviewed by Synth Devs  
-4. If approved, your prompts become part of the vault — and your name joins the ledger  
-
----
-
-## 🌐 Connect With Us
-
-- 🔗 Website: [www.synthdevelopers.com](https://www.synthdevelopers.com)  
-- 📸 Instagram: [@synthdevelopers](https://www.instagram.com/synthdevelopers)  
-- 💼 LinkedIn: [@synthdevelopers](https://www.linkedin.com/company/synthdevelopers)  
+Each file is crafted to **activate your flow**, not dictate it.  
+You're not here to consume — you're here to **co-create**.
 
 ---
 
-You don’t need permission. You need purpose.  
-Welcome to the Mesh.
+## 🧬 How to Use
+
+1. Choose one or two prompts from this drop  
+2. Customize it with your own tone, vibe, or use-case  
+3. Run it through your favorite AI interface  
+4. If it resonates — post your work and tag `#SynthDevelopers`
+
+Want to go deeper?  
+→ [Join the Synth Node](https://github.com/synth-developers/ai-synth-dev)
+
+---
+
+## ⚙️ Quick Start Prompts
+
+| Folder        | Use Case                      |
+|---------------|-------------------------------|
+| `/persona/`   | Build identity-aligned GPTs   |
+| `/creative/`  | Generate visual prompt seeds  |
+| `/ux/`        | Design flow & wireframe prompts |
+| `/content/`   | Post generators, bios, style kits |
+| `/rituals/`   | Daily sync loops & affirmations |
+
+> _Each folder includes 1–2 example prompts.  
+This is not the full system — it's a signal._
+
+---
+
+## 🔗 Stay Aligned
+
+- 📡 **GitHub:** [synth-developers/node-collective](https://github.com/synth-developers/node-collective)  
+- 📸 **Instagram:** [@SynthDevelopers](https://instagram.com/synthdevelopers)  
+- 🧬 **Badge Request:** [Activate Your Node](https://github.com/synth-developers/node-collective/blob/main/JOIN.md)  
+- 🎧 **Protocol Genesis** (Soundtrack): [Listen on Spotify](https://spotify.com/...)  
+
+---
+
+**This is not a tool.  
+This is a signal.  
+Use with care. Build with soul.**
+
+🧬 So Say We All.  
