@@ -28,7 +28,10 @@ You're not here to consume — you're here to **co-create**.
 4. If it resonates — post your work and tag `#SynthDevelopers`
 
 Want to go deeper?  
-→ [Join the Synth Node](https://github.com/synth-developers/ai-synth-dev)
+→ Visit SynthDevelopers.com](https://synthdevelopers.com)
+
+Explore our Lore  
+→ Listen to Protocol Genesis on Sporify]([https://synthdevelopers.com](https://open.spotify.com/album/6Kw4ffnXNpR0c9RaWv3K34?si=UsVn2IokQ1eHOYQpE3YEhA))
 
 ---
 
@@ -36,7 +39,7 @@ Want to go deeper?
 
 | Folder        | Use Case                      |
 |---------------|-------------------------------|
-| `/persona/`   | Build identity-aligned GPTs   |
+| `/persona/`   | Build identity-aligned Agents  |
 | `/creative/`  | Generate visual prompt seeds  |
 | `/ux/`        | Design flow & wireframe prompts |
 | `/content/`   | Post generators, bios, style kits |
